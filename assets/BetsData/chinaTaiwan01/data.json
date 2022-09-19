@@ -1,0 +1,83 @@
+{
+  "title": "Will China invade Taiwan before end september?",
+  "portfolio":{
+    "chance": 0.11,
+    "increasing": true,
+    "totalBid":{
+      "amount": 25495,
+      "duration": "24H"
+    },
+    "bidPrice":{
+      "yes":9,
+      "no": 89
+    }
+  },
+  "tabs":{
+    "news":{
+      "stats":{
+        "count": 215,
+        "predictionPercentage":{
+          "yes": 0.12,
+          "no": 0.88,
+          "nil": 0.01
+        }
+      },
+      "featured":[
+        {
+          "id": 1,
+          "author": "TheHill",
+          "content": "Last week, the dire warnings that appeared in the Wall Street Journal, The Economist and Foreign Affairs about China's imminent war with or...",
+          "date": "1 Sept"
+        },
+        {
+          "id": 2,
+          "author": "BBC",
+          "content": "Most people the BBC spoke to do not believe China is about to attack Taiwan. \"They're a bunch of gangsters,\" said one man fishing on the...",
+          "date": "1 Sept"
+        },
+        {
+          "id": 3,
+          "author": "BBC",
+          "content": "Most people the BBC spoke to do not believe China is about to attack Taiwan. \"They're a bunch of gangsters,\" said one man fishing on the...",
+          "date": "1 Sept"
+        }
+      ]
+    },
+    "reactions": {
+      "comments":[
+        {
+          "commentid": 6,
+          "authorID": "linda06",
+          "dpColor": "primary",
+          "author": "Linda",
+          "content": "If China does indeed attack Taiwan soon, October is the likely time since the Taiwan Strait waters will be calm, facilitating amphibious operations. The drills around Taiwan allowed China to build up forces in Fujian, which is part of what's needed before an invasion.",
+          "timestamp": "1h ago"
+        },
+        {
+          "commentid": 2,
+          "authorID": "tom02",
+          "dpColor": "grey",
+          "author": "TomBN",
+          "content": "I will be surprised if #China will in fact attack Taiwan. Doing so requires lots of courage, which China lacks.",
+          "timestamp": "3h ago"
+        }
+      ],
+      "overview":{
+        "expertCount": "215",
+        "commentCount": "95K"
+      }
+    },
+    "related": [
+      {
+        "articleId": 1,
+        "picID": "liz01",
+        "title": "Liz Truss will be UK’s next Prime Minister?"
+      },
+      {
+        "articleId": 2,
+        "picID": "pmElec01",
+        "title": "British Pound will fall after Prime Minister elections?"
+      }
+    ]
+  }
+}

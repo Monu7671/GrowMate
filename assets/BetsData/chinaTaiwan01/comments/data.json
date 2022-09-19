@@ -1,0 +1,47 @@
+[
+  {
+    "commentID": 1,
+    "authorID": "alison01",
+    "dpColor": "primary",
+    "author": "Prof.alison",
+    "content": "If China does indeed attack Taiwan soon, October is the likely time since the Taiwan Strait waters will be calm, facilitating amphibious operations. The drills around Taiwan allowed China to build up forces in Fujian, which is part of what's needed before an invasion.",
+    "timestamp": "1h ago",
+    "replies": 5
+  },
+  {
+    "commentID": 2,
+    "authorID": "tom02",
+    "dpColor": "grey",
+    "author": "TomBN",
+    "content": "I will be surprised if #China will in fact attack Taiwan. Doing so requires lots of courage, which China lacks.",
+    "timestamp": "3h ago",
+    "replies": 1
+  },
+  {
+    "commentID": 3,
+    "authorID": "david03",
+    "dpColor": "grey",
+    "author": "David",
+    "content": "scary things going on in the world",
+    "timestamp": "1d ago",
+    "replies": null
+  },
+  {
+    "commentID": 4,
+    "authorID": "pik04",
+    "dpColor": "grey",
+    "author": "Pik",
+    "content": "More Australians think that China will attack Australia than Taiwanese believe China will attack Taiwan",
+    "timestamp": "9h ago",
+    "replies": 1
+  },
+  {
+    "commentID": 5,
+    "authorID": "alison05",
+    "dpColor": "grey",
+    "author": "Prof.alison",
+    "content": "The Pentagon has not changed its assessment that China is not planning to invade Taiwan in the next two years, the Defense Department’s top policy office said Monday, despite Beijing’s launching unprecedented military drills around the island last week. In answer to a question about whether the military has a new assessment as to whether China will take Taiwan by force in the next two years given the events of the last week, Colin Kahl, the undersecretary of defense for policy, said succinctly: “No.”",
+    "timestamp": "9h ago",
+    "replies": 23
+  }
+]
